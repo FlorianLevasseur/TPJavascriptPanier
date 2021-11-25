@@ -1,0 +1,195 @@
+{
+    "clothes": [{
+            "id": 101,
+            "title": "T-shirt Fresque Avengers",
+            "img": "./assets/img/vet1.jpg",
+            "qty": 0,
+            "price": 20.99
+        },
+        {
+            "id": 102,
+            "title": "T-shirt GrootPool",
+            "img": "./assets/img/vet2.jpg",
+            "qty": 0,
+            "price": 20.99
+        },
+        {
+            "id": 103,
+            "title": "T-shirt The Beatles",
+            "img": "./assets/img/vet3.jpg",
+            "qty": 0,
+            "price": 20.99
+        },
+        {
+            "id": 104,
+            "title": "T-shirt Iron-Spider",
+            "img": "./assets/img/vet4.jpg",
+            "qty": 0,
+            "price": 20.99
+        },
+        {
+            "id": 105,
+            "title": "T-shirt Spider-Pool",
+            "img": "./assets/img/vet5.jpg",
+            "qty": 0,
+            "price": 20.99
+        },
+        {
+            "id": 106,
+            "title": "T-shirt Avengers",
+            "img": "./assets/img/vet6.jpg",
+            "qty": 0,
+            "price": 28.99
+        },
+        {
+            "id": 107,
+            "title": "T-shirt Thanos",
+            "img": "./assets/img/vet7.jpg",
+            "qty": 0,
+            "price": 20.99
+        },
+        {
+            "id": 108,
+            "title": "T-shirt Ironman Forever",
+            "img": "./assets/img/vet8.jpg",
+            "qty": 0,
+            "price": 20.99
+        },
+        {
+            "id": 109,
+            "title": "T-shirt Black Panther",
+            "img": "./assets/img/vet9.jpg",
+            "qty": 0,
+            "price": 20.99
+        }
+    ],
+
+    "figures": [{
+            "id": 201,
+            "title": "Figurine Black Panther",
+            "img": "./assets/img/fig1.jpg",
+            "qty": 0,
+            "price": 15.99
+        },
+        {
+            "id": 202,
+            "title": "Figurine Hulk",
+            "img": "./assets/img/fig2.jpg",
+            "qty": 0,
+            "price": 15.99
+        },
+        {
+            "id": 203,
+            "title": "Figurine Iron-Man",
+            "img": "./assets/img/fig3.jpg",
+            "qty": 0,
+            "price": 15.99
+        },
+        {
+            "id": 204,
+            "title": "Figurine Ronan",
+            "img": "./assets/img/fig4.jpg",
+            "qty": 0,
+            "price": 15.99
+        },
+        {
+            "id": 205,
+            "title": "Figurine Thor",
+            "img": "./assets/img/fig5.jpg",
+            "qty": 0,
+            "price": 15.99
+        },
+        {
+            "id": 206,
+            "title": "Figurine Hawkeye",
+            "img": "./assets/img/fig6.jpg",
+            "qty": 0,
+            "price": 15.99
+        },
+        {
+            "id": 207,
+            "title": "Figurine Black Widow",
+            "img": "./assets/img/fig7.jpg",
+            "qty": 0,
+            "price": 15.99
+        },
+        {
+            "id": 208,
+            "title": "Figurine Spiderman",
+            "img": "./assets/img/fig8.jpg",
+            "qty": 0,
+            "price": 15.99
+        },
+        {
+            "id": 209,
+            "title": "Figurine Antman",
+            "img": "./assets/img/fig9.jpg",
+            "qty": 0,
+            "price": 15.99
+        }
+    ],
+    "goodies": [{
+            "id": 301,
+            "title": "Lampe Captain America",
+            "img": "./assets/img/good1.jpg",
+            "qty": 0,
+            "price": 35.99
+        },
+        {
+            "id": 302,
+            "title": "Lego Ironman",
+            "img": "./assets/img/good2.jpg",
+            "qty": 0,
+            "price": 54.99
+        },
+        {
+            "id": 303,
+            "title": "Lot porte clé marvel",
+            "img": "./assets/img/good3.jpg",
+            "qty": 0,
+            "price": 37.99
+        },
+        {
+            "id": 304,
+            "title": "Lampe spideman",
+            "img": "./assets/img/good4.jpg",
+            "qty": 0,
+            "price": 35.99
+        },
+        {
+            "id": 305,
+            "title": "Porte clé Black Panther",
+            "img": "./assets/img/good5.jpg",
+            "qty": 0,
+            "price": 10.19
+        },
+        {
+            "id": 306,
+            "title": "Lego Gant Thanos",
+            "img": "./assets/img/good6.jpg",
+            "qty": 0,
+            "price": 54.99
+        },
+        {
+            "id": 307,
+            "title": "Ouvre bouteille Marteau ",
+            "img": "./assets/img/good7.jpg",
+            "qty": 0,
+            "price": 12.19
+        },
+        {
+            "id": 308,
+            "title": "Lego Venom",
+            "img": "./assets/img/good8.jpg",
+            "qty": 0,
+            "price": 54.99
+        },
+        {
+            "id": 309,
+            "title": "Mug Marvel",
+            "img": "./assets/img/good9.jpg",
+            "qty": 0,
+            "price": 12.99
+        }
+    ]
+}
