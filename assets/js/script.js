@@ -11,14 +11,22 @@ fetch("./assets/js/products.json")
         document.getElementById("myLinks").addEventListener("click", (e) => {
             if (e.target.nodeName == "A") {
                 console.log(document.getElementById("myLinks"))
-                e.target.classList.replace("text-white","text-danger")
                 let myData
                 if (e.target.id == "clothes") {
                     myData = data.clothes
+                    document.getElementById("clothes").classList.replace("text-white","text-dark")
+                    document.getElementById("figures").classList.replace("text-dark","text-white")
+                    document.getElementById("goodies").classList.replace("text-dark","text-white")
                 } else if (e.target.id == "figures") {
                     myData = data.figures
+                    document.getElementById("clothes").classList.replace("text-dark","text-white")
+                    document.getElementById("figures").classList.replace("text-white","text-dark")
+                    document.getElementById("goodies").classList.replace("text-dark","text-white")
                 } else if (e.target.id == "goodies") {
                     myData = data.goodies
+                    document.getElementById("clothes").classList.replace("text-dark","text-white")
+                    document.getElementById("figures").classList.replace("text-dark","text-white")
+                    document.getElementById("goodies").classList.replace("text-white","text-dark")
                 } else {
                     myData = ""
                 }
@@ -49,6 +57,9 @@ fetch("./assets/js/products.json")
 
         document.getElementById("home").addEventListener("click", (e) => {
             if (e.target.nodeName == "A") {
+                document.getElementById("clothes").classList.replace("text-dark","text-white")
+                document.getElementById("figures").classList.replace("text-dark","text-white")
+                document.getElementById("goodies").classList.replace("text-dark","text-white")
                 document.getElementById("contain").classList.remove("container")
                 document.getElementById("content").classList.remove("bg-white", "mt-4")
                 document.getElementById("content").innerHTML =
